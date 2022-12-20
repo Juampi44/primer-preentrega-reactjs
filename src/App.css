@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 } */
+
+
+.container-app{
+  /*  background-image: url(./assets/tejidoniño.jpeg); */
+   /* background-color: rgb(162, 241, 244); */
+   background-size: cover;
+   opacity: 0.9;
+   background-image: url(./assets/tejidoniño.jpeg);
+   min-width: 100vw;
+   
+}
